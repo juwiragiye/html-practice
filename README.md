@@ -1,9 +1,13 @@
 # html-practice
 
-[The html module on the learn front web developement tutorial](https://developer.mozilla.org/en-US/docs/Web/Tutorials#html_tutorials) from [MDN](https://developer.mozilla.org/en-US/)
+I want to take a deep dive on web development.
+This is going to be a journey for 100 days of code.
+My main focus is:
 
-The First directory [Test Folder](html/test-folder/) contains the getting started with fronted web developement.
-
-## The module is devided into three parts:
-
-- ### [HTML Basics](html/html-basics). For more info check [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) page.
+- [ ] First Learn HTML
+- [ ] Learn CSS in details
+- [ ] Learn Javascript
+- [ ] Learn React
+- [ ] Learn Nodejs
+- [ ] Learn Remix.run
+- [ ] Make cool websites
